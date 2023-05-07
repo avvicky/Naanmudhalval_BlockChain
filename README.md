@@ -20,7 +20,7 @@ The application provides the following features:
 To install and run the Naanmudhalvan_BlockChain application, follow these steps:
 
 1. Clone the repository to your local machine using the command: `git clone https://github.com/avvicky/Naanmudhalvan_BlockChain.git`
-2. Navigate to the cloned repository using the command: `cd Naanmudhalval_BlockChain`
+2. Navigate to the cloned repository using the command: `cd Naanmudhalvan_BlockChain`
 3. Install the required packages
 4. Run the application
 
