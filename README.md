@@ -6,7 +6,7 @@ This repository contains the source code for a blockchain application called "Na
 
 The Naanmudhalvan_BlockChain is a simple blockchain that create on part of NSE ACADEMY BlockChain Course
 
-##authors
+## Authors
 - Vignesh A (621521205056)
 - Stynne Tes A (621521205040)
 
